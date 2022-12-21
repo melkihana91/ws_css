@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&family=Secular+One&display=swap');
+
+
+
+
+body{
+    background: background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,114,121,0.2902524834437086) 0%, rgba(0,212,255,0.3631001655629139) 56%);   
+
+backgour right: 300px;
+color : whit;
+
+
+}
+
+#hana {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color : fuchsia;
+    text-align: center;
+    font: size 700px;
+    margin-top: 10px;
+    
+}
+
+#nav {
+    
+    width:400px ;
+    height:30px;
+    margin-left:600px ;
+    margin-top: 20px ;
+    padding-left: 35px;
+    font-size: 30px;
+}
+ul> li> a {
+    color: fuchsia;
+    text-decoration: none; 
+}
+
+
+ul>li> a:hover {
+    color: rgb(235, 121, 140);
+    font-size: 30px;
+}
+img{
+    width: 500px ;
+    padding-left:500px ;
+  
+    border-radius:20px ;
+    padding-bottom: 20px ;
+     margin-top: 50px  ;
+     margin-left: 30px;
+}
+#facb{
+    background-color: rgb(207, 200, 235);
+    color: fuchsia;
+    text-decoration:  none ;
+    width:500px ;
+ text-align: end;
+    height: 400px;
+    f
+
+}
+.tetle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px ;
+    color:fuchsia
+}
+#p{
+font-family: 'Times New Roman', Times, serif;
+color:white;  
+font-size:20px ; 
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:fuchsia;
+
+
+}
+li{
+    color:aliceblue
+}
+th{
+    color:fuchsia
+    border:aliceblue
+}
+table{
+    border: fuchsia ;
+    color:aliceblue;
+}
+label{
+    border: rgb(132, 157, 240);
+    color:fuchsia;
+}
+button{
+    color:fuchsia;
+}
+option{
+    color: fuchsia;
+}
+Australia{
+    color: fuchsia;
+}
+footer{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: fuchsia;
+}
+#n{
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font: 200px;
+
+}
+#f{
+    color:fuchsia ;
+    font-size:20px ;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.hanna{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: fuchsia;
+}
+
+
+
+  
